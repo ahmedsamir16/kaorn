@@ -1,5 +1,5 @@
-* {box-sizing:border-box}
-@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+* {box-sizing:border-box
+    @import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);}
 /*start main rules*/
 
 body{height:2500px}
