@@ -1,4 +1,5 @@
 * {box-sizing:border-box}
+
 /*start main rules*/
 
 body{height:2500px}
@@ -68,8 +69,7 @@ body{height:2500px}
 .features .cont div {width: 18%;background-color: rgb(255, 255, 255);margin-top: 35px;margin-bottom: 50px}
 .features .cont div img {width:20px;height:20px}
 .features .cont div h2 {font-size: 30px;color: #f7ae41}
-.features .cont div p {font-size: 16px;
-    line-height: 24px;color: #999;font-weight: bold}
+.features .cont div p {font-size: 15px;color: #999;font-weight: bold}
 
 /*end features*/
 
@@ -79,8 +79,7 @@ body{height:2500px}
 
 .history .para {float:right;width:50%;overflow: hidden;direction: rtl}
 .history .para h2 {float: right;color:#444;text-transform: capitalize;margin: 0 0px 10px 0;}
-.history .para p {line-height: 39px;
-    font-size: 20px;color:#888;;text-align: justify;margin:30px 0 0 0}
+.history .para p {line-height: 33px;font-size: 16px;color:#888;;text-align: justify;margin:30px 0 0 0}
 .history .para hr {width: 30px;height: 1px;background: #111111;border: 0;clear: both;float: right}
 .history .pic {float:left;height: 506px;width: 415px;}
 .history .pic img {width:100%;height:100%}
