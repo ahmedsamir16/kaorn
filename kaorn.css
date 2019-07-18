@@ -69,7 +69,7 @@ body{height:2500px}
 .features .cont div {width: 18%;background-color: rgb(255, 255, 255);margin-top: 35px;margin-bottom: 50px}
 .features .cont div img {width:20px;height:20px}
 .features .cont div h2 {font-size: 30px;color: #f7ae41}
-.features .cont div p {font-size: 15px;line-height: 22px;color: #b5b4b4;color: #999;font-weight: bold}
+.features .cont div p {font-size: 15px;line-height: 22px;color: #b5b4b4;font-weight: bold}
 
 /*end features*/
 
